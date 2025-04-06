@@ -1,0 +1,7 @@
+body {
+  margin-bottom: 40px; /* Reducido para el footer más pequeño */
+  background-color: var(--color-white);
+  color: var(--color-secondary);
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 30px; /* Espacio adicional en la parte inferior */
+}
